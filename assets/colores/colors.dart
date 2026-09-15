@@ -1,0 +1,1 @@
+// crear paletas de colores y llamar a la clase y al color
